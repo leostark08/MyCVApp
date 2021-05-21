@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyCV</string>
+    <string name="email">Email</string>
+    <string name="author">Leo Stark</string>
+    <string name="password">Password</string>
+    <string name="DoB">Date of Birth</string>
+    <string name="cellphone">Cellphone</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="signIn">Sign in</string>
+    <string name="signUp">Sign Up</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="backToLogin">Back To Login</string>
+    <string name="fullname">Fullname</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="logo">Logo</string>
+</resources>

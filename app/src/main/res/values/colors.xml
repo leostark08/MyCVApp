@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FF9800</color>
+    <color name="primaryDark">#c66900</color>
+    <color name="primaryLight">#ffc947</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="facebook">#3b5998</color>
+    <color name="google">#ff3e30</color>
+    <color name="teal_200">#FF9800</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#7E7E7E</color>
+    <color name="success">#4caf50</color>
+    <color name="error">#ff3d00</color>
+</resources>
